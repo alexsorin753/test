@@ -1,2 +1,3 @@
 "this appears only on master brench - update visualStudio" 
-merge
+merged
+commited with vs code
